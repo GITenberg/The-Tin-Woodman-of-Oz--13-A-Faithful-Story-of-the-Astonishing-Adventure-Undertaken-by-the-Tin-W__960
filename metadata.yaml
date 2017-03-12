@@ -1,5 +1,8 @@
 _repo: The-Tin-Woodman-of-Oz--13-A-Faithful-Story-of-the-Astonishing-Adventure-Undertaken-by-the-Tin-W__960
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -20,6 +23,8 @@ description: "The Tin Woodman of Oz: A Faithful Story of the Astonishing Adventu
   \ when he was flesh and blood. This was a back-story from The Wonderful Wizard of\
   \ Oz.\nThe book was dedicated to the author's grandson Frank Alden Baum.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/960#The-Tin-Woodman-of-Oz--13-A-Faithful-Story-of-the-Astonishing-Adventure-Undertaken-by-the-Tin-W_
 gutenberg_bookshelf:
 - Children's Literature
 - Fantasy
